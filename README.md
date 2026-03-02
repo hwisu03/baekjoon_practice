@@ -1,2 +1,10 @@
-# baekjoon_practice
-baekjoon bronze~
+# 💻 Baekjoon Practice
+
+C++를 활용한 백준(Baekjoon Online Judge) 알고리즘 문제 풀이 저장소입니다.
+
+## 🎯 목표
+- 브론즈 티어부터 차근차근 풀며 C++ 기본 문법과 구조 완벽히 적응하기
+- 꾸준한 문제 풀이로 알고리즘적 사고력 기르기
+
+## 📂 폴더 구조
+문제의 난이도(티어)를 기준으로 폴더를 나누어 관리합니다.
