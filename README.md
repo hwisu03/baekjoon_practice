@@ -1,6 +1,6 @@
 # 💻 Baekjoon Practice
 
-C++를 활용한 백준(Baekjoon Online Judge) 알고리즘 문제 풀이 저장소입니다.
+C++를 활용한 백준(Baekjoon Online Judge) 알고리즘 문제 풀이 저장소입니다.  
 원래는 파이썬으로 했었으나 C++로 연습하려고 합니다.
 
 ## 🎯 목표
